@@ -1,3 +1,9 @@
+'''
+Chenchira Stevens
+CNE330
+6/21/2021
+Python For Kids (Jason R. Briggs)
+'''
 from tkinter import *
 import random
 import time
